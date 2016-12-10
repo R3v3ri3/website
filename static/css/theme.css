@@ -545,7 +545,7 @@ ul.lead li {
 }
 /*!---------- 4. COLOURS ----------*/
 .bg-primary {
-  background: #47b475 !important;
+  background: #ff6633 !important;
 }
 .bg-secondary {
   background: #f8f8f8;
@@ -805,7 +805,7 @@ footer.bg-dark li,
   border-color: #ff6633;
 }
 .image-bg .btn-filled:hover {
-  border-color: #fff;
+  border-color: #ff6633;
 }
 .btn-rounded {
   border-radius: 25px;
@@ -823,7 +823,7 @@ body.btn-rounded .btn {
 }
 .bg-light .btn-filled,
 .bg-light .btn-filled:visited {
-  color: #fff;
+  color: #ff6633;
 }
 .btn:visited {
   color: #47b475;
@@ -836,7 +836,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn-filled:visited {
-  color: #fff;
+  color: #ff6633;
 }
 .btn.bg-dark {
   color: #fff;
@@ -846,11 +846,11 @@ body.btn-rounded .btn {
   background: #434343;
 }
 .bg-primary .btn {
-  color: #fff;
-  border-color: #fff;
+  color: #ff6633;
+  border-color: #ff6633;
 }
 .bg-primary .btn:hover {
-  background: #fff;
+  background: #ff6633;
   color: #47b475;
 }
 /*!---------- 7. NAVIGATION ----------*/
@@ -1809,8 +1809,8 @@ input[type="submit"],
 button[type="submit"] {
   height: 50px;
   line-height: 48px;
-  border: 2px solid #47b475;
-  background: #47b475;
+  border: 2px solid #ff6633;
+  background: #ff6633;
   color: #fff;
   width: 100%;
   font-size: 11px;
@@ -1821,8 +1821,8 @@ button[type="submit"] {
 }
 .bg-primary input[type="submit"],
 .bg-primary button[type="submit"] {
-  background: #fff;
-  color: #47b475;
+  background: #ff6633;
+  color: #ff6633;
 }
 input[type="submit"]:focus,
 button[type="submit"]:focus {
@@ -2683,7 +2683,7 @@ button[type="submit"] .form-loading {
   color: #47b475;
 }
 .bg-primary .feature-3 i {
-  color: #fff;
+  color: #ff6633;
 }
 .feature-4 .left {
   width: 25%;
